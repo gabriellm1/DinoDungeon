@@ -4,7 +4,8 @@
 
 ## How to play
 
-- Use arrows or WASD to control the character 
+- Use arrows or WASD to control the character
+- Use spacebar to jump. The more you hold, higher you get. Double jump exists.
 - Collect 6 blue circles to unlock the sword
 - Attack with the sword using Z
 - Don't touch the toxic itens otherwise they will kil you
