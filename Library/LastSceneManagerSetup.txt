@@ -1,0 +1,16 @@
+sceneSetups:
+- path: Assets/Scenes/SampleScene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/MainMenu.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Instructions.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/FinalScene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Try Again.unity
+  isLoaded: 0
+  isActive: 0

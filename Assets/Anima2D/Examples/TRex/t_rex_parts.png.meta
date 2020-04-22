@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 726d2784a87b044f182b7487b3b8ebb8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: t_rex_body
+    21300002: t_rex_leg
+    21300004: t_rex_head
+    21300006: t_rex_jaw_open_back
+    21300008: t_rex_jaw_open
+    21300010: t_rex_parts_0
+    21300012: t_rex_parts_1
+    21300014: t_rex_parts_2
+    21300016: t_rex_parts_3
+    21300018: t_rex_parts_4
+    21300020: t_rex_parts_5
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: t_rex_parts_0
+      rect:
+        serializedVersion: 2
+        x: 21.840042
+        y: 693.68243
+        width: 873.38196
+        height: 329.4666
+      alignment: 9
+      pivot: {x: 1.0369173, y: 0.6877922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b756fbc709104d13b07063c7d6482b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_rex_parts_1
+      rect:
+        serializedVersion: 2
+        x: 17.070524
+        y: 381.07056
+        width: 138.85896
+        height: 297.89435
+      alignment: 9
+      pivot: {x: 0.48010045, y: 0.8663791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b445039719b2f45d2802a2fef93a478f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_rex_parts_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 542
+        width: 189
+        height: 128
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2716ff2b042541b18c971d4789901fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_rex_parts_3
+      rect:
+        serializedVersion: 2
+        x: 457.30383
+        y: 459
+        width: 196.69617
+        height: 209.10791
+      alignment: 9
+      pivot: {x: 0.75253904, y: 0.65888596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ba1af1412194823abc2a57efe4ac9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_rex_parts_4
+      rect:
+        serializedVersion: 2
+        x: 678.1216
+        y: 516
+        width: 115.34454
+        height: 118.63611
+      alignment: 9
+      pivot: {x: 0.090497166, y: 0.46184406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7622aba263ce4fbdaec878215fff62e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_rex_parts_5
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 429
+        width: 35
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbbf1e8162c249dcbb651660d05382e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4a4a695407259411291bdc431dae91da
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: trex
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637209401810000000
+  assetBundleName: 
+  assetBundleVariant: 
