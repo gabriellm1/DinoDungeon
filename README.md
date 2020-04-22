@@ -1,5 +1,6 @@
 # DinoDungeon - Platform Game made in Unity
 
+## Play the game [here](https://gabriellm1.github.io/DinoDungeon/)
 
 ## How to play
 
